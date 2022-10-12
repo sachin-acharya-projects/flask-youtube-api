@@ -1,0 +1,4 @@
+youtube-search-python
+Flask
+dotenv
+yt-dlp
