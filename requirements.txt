@@ -1,4 +1,4 @@
 youtube-search-python
 Flask
-dotenv
+python-dotenv
 yt-dlp
